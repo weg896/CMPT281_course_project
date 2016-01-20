@@ -1,5 +1,5 @@
-# CMPT281_course_project
-A cmpt281 course project (Polar Bear Competition)
+# Polar Bear Competition
+Polar Bear Competition is a cmpt281 course project
 
 ### Keys of this project
 

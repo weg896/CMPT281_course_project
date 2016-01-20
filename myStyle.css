@@ -1,0 +1,19 @@
+#seperate{ background-color: #00000000; padding: 0px 0px 10px 0px; }
+.divbear {height:260px;overflow: auto; border: 3px dotted #23AAD1;}
+.divspecial{height:830px;overflow: auto; border: 3px dotted #23AAD1;}
+.text_black {color: #99CCFF;}
+.divstar {height:150px;overflow: auto;}
+.divpurch {height:220px;overflow: auto;}
+.title {font-size:30;}
+.divBG {Opacity: #ffffffff;}
+.MyBearfount {
+	font-size: 20px;
+	color: #99CCFF;
+	text-align: justify;
+	margin: 0 0 20px 0;		
+}
+table,td,th { border:2px solid #031b35; }
+td { text-align:center; }
+.bearbackground{
+	background-image:url("images/bear/backbear.png");
+}
